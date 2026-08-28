@@ -20,7 +20,7 @@ I specialize in building scalable, fault-tolerant microservice architectures, ev
 
 ---
 
-### 🌟 Featured Project: [Cake Delight Microservices Platform](https://github.com/your-username/your-repo-name)
+### 🌟 Featured Project: [Cake Delight Microservices Platform]([https://github.com/your-username/your-repo-name](https://github.com/akashgupta2233/cake-delight-cloud-native-microservices))
 
 An event-driven, cloud-native e-commerce platform built to demonstrate high availability, fault isolation, and asynchronous processing using Spring Boot, PostgreSQL, RabbitMQ, and Kubernetes.
 
